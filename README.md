@@ -1,1 +1,1 @@
-#This is a Amazon Clone Project.
+#This is a Amazon Clone Project,Create with HTML and CSS.
